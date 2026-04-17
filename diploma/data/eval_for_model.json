@@ -1,0 +1,819 @@
+[
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "кот в образе рыцаря в доспехах",
+    "output": "1cat, as knight in armor, heroic, anthropomorphic, funny, detailed, sword, shield, cartoon style, brave",
+    "class": "cat"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "кошка, умывающая котенка",
+    "output": "cat, grooming kitten, maternal, tender, detailed, domestic, loving, clean, family bond, heartwarming",
+    "class": "cat"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "кот, заснувший на клавиатуре пианино",
+    "output": "cat, asleep on piano keyboard, peaceful, musical, detailed, domestic, black and white keys, funny, cozy",
+    "class": "cat"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "котенок, играющий с собственным хвостом",
+    "output": "kitten, playing with its own tail, silly, energetic, detailed, domestic, funny, confused, adorable, playful",
+    "class": "cat"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "кот в роли детектива с лупой",
+    "output": "cat, as detective with magnifying glass, investigative, anthropomorphic, funny, detailed, trench coat, mystery",
+    "class": "cat"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "кот, наблюдающий за птицами из укрытия",
+    "output": "cat, watching birds from hiding spot, predator, focused, detailed, garden, stealthy, tail twitching, instinct",
+    "class": "cat"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "собака породы доберман на тренировочной площадке",
+    "output": "doberman, on training ground, alert, disciplined, detailed, obedient, commands, professional, loyal, fit",
+    "class": "dog"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "собака в костюме банана",
+    "output": "dog, in banana costume, yellow, funny, adorable, detailed, fruity, playful, whimsical, cute, silly",
+    "class": "dog"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "щенок в первый раз видит зеркало",
+    "output": "puppy, seeing mirror for first time, confused, curious, detailed, domestic, funny, self-discovery, adorable",
+    "class": "dog"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "собака, несущая сумку хозяина",
+    "output": "dog, carrying owner's bag, helpful, strong, detailed, urban, service, loyal, well-trained, heartwarming",
+    "class": "dog"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "собака-спасатель на воде",
+    "output": "water rescue dog, in life jacket, heroic, focused, detailed, ocean, lifesaving, brave, trained, action",
+    "class": "dog"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "собака, спящая под столом во время ужина",
+    "output": "dog, sleeping under table during dinner, hopeful, patient, detailed, domestic, food smells, cozy, funny",
+    "class": "dog"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "автомобиль для перевозки мороженого",
+    "output": "ice cream truck, colorful, cheerful, detailed, neighborhood, summer, music, children, nostalgic, treat",
+    "class": "car"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "машина для гонок по бездорожью",
+    "output": "off-road racing vehicle, mud-covered, powerful, detailed, dirt track, action, speed, extreme, sport",
+    "class": "car"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "автомобиль, украшенный для победы в гонке",
+    "output": "car, decorated for race victory, winner's wreath, champagne, detailed, celebration, podium, achievement",
+    "class": "car"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "машина, застрявшая в снегу",
+    "output": "car, stuck in snow, winter, helpless, detailed, rural, cold, trying to dig out, realistic, struggle",
+    "class": "car"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "автомобиль для перевозки лошадей",
+    "output": "horse trailer, attached to car, equestrian, travel, detailed, country road, animal care, journey, spacious",
+    "class": "car"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "машина, покрытая каплями дождя",
+    "output": "car, covered in rain droplets, wet, reflective, detailed, urban, after storm, moody, atmospheric, shiny",
+    "class": "car"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "самолет, летящий на фоне заката",
+    "output": "airplane, flying against sunset, orange and pink sky, serene, detailed, travel, beautiful, peaceful, majestic",
+    "class": "airplane"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "самолет, который используют для сельскохозяйственных работ",
+    "output": "airplane, used for crop dusting, low flight, detailed, fields, agricultural, spraying, rural, specialized",
+    "class": "airplane"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "самолет на музейной стоянке",
+    "output": "airplane, on museum tarmac, historic, polished, detailed, informational plaques, public, nostalgic, static",
+    "class": "airplane"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "самолет, заходящий на посадку ночью",
+    "output": "airplane, on final approach at night, runway lights, city lights in distance, detailed, atmospheric, serene",
+    "class": "airplane"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "самолет в ангаре, окруженный запчастями",
+    "output": "airplane, in hangar surrounded by spare parts, maintenance, detailed, technical, tools, repair, organized",
+    "class": "airplane"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "самолет, пролетающий над озером",
+    "output": "airplane, flying over lake, reflection in water, scenic, detailed, nature, travel, peaceful, beautiful",
+    "class": "airplane"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "тюльпаны в весеннем саду",
+    "output": "tulips, in spring garden, rows of color, vibrant, detailed, gardening, beautiful, organized, fresh, cheerful",
+    "class": "flower"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "орхидея дендробиум на коре",
+    "output": "dendrobium orchid, growing on bark, epiphyte, natural habitat, detailed, exotic, pink and white, aerial roots",
+    "class": "flower"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "ромашка, колеблемая ветром",
+    "output": "daisy flower, swaying in the wind, delicate, white petals, yellow center, detailed, field, summer, dynamic",
+    "class": "flower"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "цветок лотоса на воде",
+    "output": "lotus flower, on water surface, serene, spiritual, detailed, pink, pads, peaceful, symbolic, purity",
+    "class": "flower"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "георгины после дождя",
+    "output": "dahlias, after rain, vibrant, water droplets, detailed, garden, lush, colorful, fresh, autumn blooms",
+    "class": "flower"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "незабудки у ручья",
+    "output": "forget-me-nots, by stream, delicate blue, clusters, detailed, natural, serene, water, peaceful, ecosystem",
+    "class": "flower"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "спелая черешня на ветке",
+    "output": "ripe cherries, on branch, dark red, glossy, detailed, fresh, still life, summer, sweet, natural, juicy",
+    "class": "fruit"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "плод манго, нарезанный кубиками",
+    "output": "mango fruit, diced into cubes, orange, juicy, detailed, tropical, still life, fresh, delicious, food prep",
+    "class": "fruit"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "несколько ягод крыжовника",
+    "output": "gooseberries, several, translucent green, detailed, fresh, still life, tart, summer, garden, spiky",
+    "class": "fruit"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "экзотический карамболь в разрезе",
+    "output": "star fruit (carambola), sliced crosswise, star shape, yellow, detailed, exotic, still life, tropical, fun",
+    "class": "fruit"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "гранат, разломанный на части",
+    "output": "pomegranate, broken into pieces, seeds exposed, messy, juicy, detailed, still life, vibrant red, raw",
+    "class": "fruit"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "ягоды шелковицы в миске",
+    "output": "mulberries, in bowl, dark purple, juicy, detailed, fresh, still life, summer, sweet, delicate, stains",
+    "class": "fruit"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "мотоцикл для поездок по городу в дождь",
+    "output": "motorcycle, for city commuting in rain, wet, reflective, detailed, urban, traffic, practical, rainy day",
+    "class": "motorbike"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "мотоцикл с коляской, переделанный в киоск",
+    "output": "motorcycle with sidecar, converted into food kiosk, creative, street food, detailed, urban, service, fun",
+    "class": "motorbike"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "мотоцикл для стритрейсинга ночью",
+    "output": "street racing motorcycle, at night, neon lights, urban, detailed, fast, illegal, underground, sleek, moody",
+    "class": "motorbike"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "мотоцикл, покрытый пылью после бездорожья",
+    "output": "motorcycle, covered in dust after off-roading, adventure, endurance, detailed, dirty, travel, used",
+    "class": "motorbike"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "ретро-мотоцикл с хромированными деталями",
+    "output": "vintage motorcycle, with chrome parts, shiny, classic, detailed, polished, nostalgic, stylish, showpiece",
+    "class": "motorbike"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "мотоцикл для фристайла в воздухе",
+    "output": "freestyle motocross motorcycle, mid-air trick, extreme, dynamic, detailed, crowd, adrenaline, spectacular, jump",
+    "class": "motorbike"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "парикмахер делает сложную укладку",
+    "output": "hairdresser, doing intricate hairstyle, skilled, focused, detailed, realistic, salon, mirror, professional",
+    "class": "person"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "фермер собирает урожай картофеля",
+    "output": "farmer, harvesting potatoes, rural, hardworking, detailed, realistic, field, basket, earthy, autumn",
+    "class": "person"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "девочка катается на качелях",
+    "output": "girl, swinging on playground, joyful, carefree, detailed, realistic, park, sunshine, childhood, fun",
+    "class": "person"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "водитель грузовика отдыхает на стоянке",
+    "output": "truck driver, resting at truck stop, tired, detailed, realistic, highway, cabin, break, long haul, lonely",
+    "class": "person"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "ученый работает в лаборатории с микроскопом",
+    "output": "scientist, working in lab with microscope, research, focused, detailed, realistic, equipment, discovery",
+    "class": "person"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "музыкант играет на скрипке на улице",
+    "output": "street musician, playing violin, passionate, detailed, realistic, urban, cobblestone, hat for tips, soulful",
+    "class": "person"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "кот в образе космонавта",
+    "output": "1cat, as astronaut, spacesuit, helmet, anthropomorphic, funny, detailed, zero gravity, stars, cartoon style",
+    "class": "cat"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "кошка с перевязанным хвостом",
+    "output": "cat, with bandaged tail, injured, pitiful, detailed, domestic, recovery, tender, emotional, care",
+    "class": "cat"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "кот, спящий в цветочном горшке",
+    "output": "cat, sleeping in flower pot, funny, cozy, detailed, domestic, green leaves, sunny spot, peaceful, silly",
+    "class": "cat"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "котенок, изучающий свою тень",
+    "output": "kitten, investigating its own shadow, curious, playful, detailed, sunny floor, domestic, funny, confused",
+    "class": "cat"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "кот в роли пилота самолета",
+    "output": "cat, as airplane pilot, aviator glasses, scarf, anthropomorphic, funny, detailed, cockpit, clouds, brave",
+    "class": "cat"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "кот, замерший перед прыжком на мышку-игрушку",
+    "output": "cat, poised before pouncing on toy mouse, focused, predatory, detailed, domestic, tension, playful, ready",
+    "class": "cat"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "собака породы колли на ферме",
+    "output": "collie, on farm, intelligent, working dog, detailed, rural, fields, loyal, beautiful, herding instinct",
+    "class": "dog"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "собака в костюме тыквы на хэллоуин",
+    "output": "dog, in pumpkin costume for halloween, festive, funny, detailed, orange, cute, spooky season, adorable",
+    "class": "dog"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "щенок, который боится пылесоса",
+    "output": "puppy, scared of vacuum cleaner, hiding, funny, detailed, domestic, loud noise, relatable, cautious, cute",
+    "class": "dog"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "собака, приносящая тапочки хозяину",
+    "output": "dog, bringing slippers to owner, helpful, trained, detailed, domestic, cute, obedient, morning routine",
+    "class": "dog"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "собака-спасатель в горах",
+    "output": "mountain rescue dog, in harness, heroic, focused, detailed, snowy peaks, avalanche, brave, trained, action",
+    "class": "dog"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "собака, спящая на коврике у двери",
+    "output": "dog, sleeping on doormat, loyal, waiting, detailed, domestic, cozy, patient, heartwarming, guardian",
+    "class": "dog"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "автомобиль для перевозки сена",
+    "output": "hay wagon, being towed by tractor, rural, agricultural, detailed, fields, rustic, farm work, traditional",
+    "class": "car"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "машина для гонок по ледовой трассе",
+    "output": "ice racing car, with studded tires, cold, dynamic, detailed, frozen lake, speed, sport, action, slippery",
+    "class": "car"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "автомобиль, украшенный для рекламы",
+    "output": "car, wrapped in advertisement, colorful, commercial, detailed, urban, moving billboard, branding, eye-catching",
+    "class": "car"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "машина, застрявшая в песчаной дюне",
+    "output": "car, stuck in sand dune, desert, adventure, detailed, off-road, struggle, hot, trying to dig out, realistic",
+    "class": "car"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "автомобиль для перевозки велосипедов",
+    "output": "car, with bike rack carrying bicycles, active lifestyle, travel, detailed, family, vacation, sport, road trip",
+    "class": "car"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "машина, покрытая слоем пыли",
+    "output": "car, covered in layer of dust, neglected, detailed, parked long time, atmospheric, forgotten, textured",
+    "class": "car"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "самолет, летящий на фоне северного сияния",
+    "output": "airplane, flying against aurora borealis, magical, night, colorful lights, detailed, arctic, breathtaking, serene",
+    "class": "airplane"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "самолет, который используют для тушения пожаров",
+    "output": "airplane, used for firefighting, water bomber, heroic, detailed, dropping retardant, smoke, action, brave",
+    "class": "airplane"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "самолет на авиашоу, делающий мертвую петлю",
+    "output": "airplane, at airshow performing a loop, aerobatic, dynamic, detailed, sky, crowd, thrilling, skillful",
+    "class": "airplane"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "самолет, заходящий на посадку в сильный дождь",
+    "output": "airplane, on final approach in heavy rain, dramatic, wet runway, detailed, atmospheric, challenging, lights",
+    "class": "airplane"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "самолет в ангаре, где проверяют двигатели",
+    "output": "airplane, in hangar having engines tested, technical, loud, detailed, maintenance, professional, safety",
+    "class": "airplane"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "самолет, пролетающий над городом на рассвете",
+    "output": "airplane, flying over city at dawn, peaceful, orange sky, detailed, urban, quiet, majestic, new day",
+    "class": "airplane"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "пионы в саду, тяжелые от дождя",
+    "output": "peonies, in garden, heavy with rain, drooping, lush, detailed, pink, romantic, water droplets, fresh",
+    "class": "flower"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "орхидея фаленопсис на столе",
+    "output": "phalaenopsis orchid, on table, elegant, indoor plant, detailed, natural light, pot, graceful, home decor",
+    "class": "flower"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "колокольчики в весеннем лесу",
+    "output": "bluebells, in spring forest, carpet of blue, magical, detailed, sunlight filtering through trees, fairytale",
+    "class": "flower"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "цветок гортензии с крупными шапками",
+    "output": "hydrangea flower, with large flower heads, pink or blue, detailed, garden, lush, romantic, voluminous, summer",
+    "class": "flower"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "подснежники в лесу",
+    "output": "snowdrops, in forest, delicate white, clusters, detailed, early spring, hope, natural, peaceful, symbolic",
+    "class": "flower"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "кактус с желтым цветком",
+    "output": "cactus, with yellow flower, contrast, resilient, detailed, desert, beautiful, harsh environment, sunny",
+    "class": "flower"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "спелая гуава на ветке",
+    "output": "guava fruit, on branch, green skin, detailed, tropical, fresh, still life, natural, exotic, healthy",
+    "class": "fruit"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "ягоды красной смородины гроздьями",
+    "output": "red currants, in clusters, translucent red, jewel-like, detailed, fresh, still life, tart, summer, delicate",
+    "class": "fruit"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "плод маракуйи, разрезанный пополам",
+    "output": "passion fruit, cut in half, aromatic pulp, seeds, detailed, exotic, still life, tropical, flavorful, unique",
+    "class": "fruit"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "несколько лаймов с листьями",
+    "output": "several limes, with leaves, green, fresh, detailed, still life, citrus, zesty, rustic, natural",
+    "class": "fruit"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "гранат с треснувшей кожурой",
+    "output": "pomegranate, with cracked skin, revealing seeds, detailed, still life, vibrant red, ripe, natural, juicy",
+    "class": "fruit"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "спелые финики в корзинке",
+    "output": "ripe dates, in basket, brown, sweet, wrinkled, detailed, still life, desert, oasis, cultural, natural",
+    "class": "fruit"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "мотоцикл с коляской для прогулок по парку",
+    "output": "motorcycle with sidecar, for park rides, leisure, fun, detailed, sunny day, family, old-fashioned, charming",
+    "class": "motorbike"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "мотоцикл для пустынных экспедиций",
+    "output": "desert expedition motorcycle, with extra fuel cans, adventure, endurance, detailed, sand, travel, extreme",
+    "class": "motorbike"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "мотоцикл, украшенный светодиодной подсветкой",
+    "output": "motorcycle, decorated with LED lights, colorful, futuristic, detailed, night, urban, custom, eye-catching",
+    "class": "motorbike"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "мотоцикл в стиле кафе рейсер",
+    "output": "cafe racer motorcycle, minimalist, sporty, detailed, classic, urban, stylish, low handlebars, fast",
+    "class": "motorbike"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "мотоцикл, увязший в болоте",
+    "output": "motorcycle, stuck in swamp, desperate, adventure gone wrong, detailed, mud, water, struggle, realistic",
+    "class": "motorbike"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "мотоцикл для триала на узком бревне",
+    "output": "trial motorcycle, balancing on narrow log, extreme skill, concentration, detailed, off-road, nature, impressive",
+    "class": "motorbike"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "продавец на рынке взвешивает овощи",
+    "output": "market vendor, weighing vegetables, fresh produce, detailed, realistic, bustling market, colorful, cultural",
+    "class": "person"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "плотник вырезает деталь из дерева",
+    "output": "carpenter, carving detail from wood, skilled, focused, detailed, realistic, workshop, shavings, craft",
+    "class": "person"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "мальчик строит замок из песка",
+    "output": "boy, building sandcastle, focused, creative, detailed, realistic, beach, summer, bucket and spade, fun",
+    "class": "person"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "официантка подает десерт",
+    "output": "waitress, serving dessert, professional, sweet, detailed, realistic, restaurant, tray, customer, smile",
+    "class": "person"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "хоккеист в драке на льду",
+    "output": "hockey player, in fight on ice, aggressive, emotional, detailed, realistic, sport, conflict, gloves off",
+    "class": "person"
+    },
+    {
+    "instruction": "Создай промпт для генерации изображения на английском",
+    "input": "женщина заваривает чай",
+    "output": "woman, brewing tea, cozy, ritual, detailed, realistic, kitchen, steam, peaceful, domestic, warm",
+    "class": "person"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "светлячки в летней ночи",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "шерстяные носки у камина",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "морская звезда на камне",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "стог сена в поле",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "скрипка на стуле",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "каландра на скале",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "керамическая миска с супом",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "снегирь на заснеженной ветке",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "металлический чайник на плите",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "лось в утреннем тумане",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "фарфоровая сахарница",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "сурикат стоит на задних лапах",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "плетеное кресло на веранде",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "кашалот в глубине океана",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "глиняная свистулька",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "енот у мусорного бака",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "старый будильник на тумбочке",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "пеликан с рыбой в клюве",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "медный самовар на столе",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "лемур на дереве",
+        "output": "I don't know",
+        "class": "unknown"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "девушка кормит кота на капоте машины",
+        "output": "young woman feeding cat on car hood, sunny day, urban street, realistic, detailed, high quality, candid photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "самолет летит над полем с цветами",
+        "output": "airplane flying over flower field, aerial view, colorful blossoms, dramatic clouds, realistic, detailed, high quality, landscape photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "мальчик и собака сидят на мотоцикле",
+        "output": "boy and dog sitting on motorcycle, garage setting, casual, realistic, detailed, high quality, portrait photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "красная машина и мотоцикл на трассе",
+        "output": "red car and motorcycle on highway, racing, motion blur, dynamic action, realistic, detailed, high quality, automotive photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "девушка держит букет цветов у самолета",
+        "output": "woman holding flower bouquet near airplane, airport farewell, emotional, realistic, detailed, high quality, portrait photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "кот и собака спят в машине",
+        "output": "cat and dog sleeping in car back seat, cozy, road trip, realistic, detailed, high quality, animal photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "мотоциклист и велосипедист (заменить на person) на закате",
+        "output": "motorcyclist and person on bicycle at sunset, golden hour, scenic road, realistic, detailed, high quality, silhouette photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "самолет и машина на взлетной полосе",
+        "output": "airplane and car on runway, airport tarmac, industrial, realistic, detailed, high quality, aviation photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "девушка с собакой сидит на капоте машины",
+        "output": "woman with dog sitting on car hood, sunset, romantic, realistic, detailed, high quality, lifestyle photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "кот спит на мотоцикле в гараже",
+        "output": "cat sleeping on motorcycle in garage, cozy, mechanical background, realistic, detailed, high quality, quirky photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "человек кормит голубей на площади, рядом припаркован самолет (заменить на car)",
+        "output": "person feeding pigeons in square, car parked nearby, European atmosphere, realistic, detailed, high quality, street photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "цветы и фрукты на капоте старой машины",
+        "output": "flowers and fruits on hood of vintage car, rustic still life, realistic, detailed, high quality, creative composition",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "мальчик и кот смотрят на пролетающий самолет",
+        "output": "boy and cat watching airplane flying overhead, wonder, backyard, realistic, detailed, high quality, candid photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "мотоцикл и собака на фоне заката",
+        "output": "motorcycle and dog silhouetted against sunset, golden hour, scenic road, realistic, detailed, high quality, cinematic photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "девушка с корзиной фруктов на заднем сиденье кабриолета",
+        "output": "woman with fruit basket in back seat of convertible, summer, road trip, realistic, detailed, high quality, lifestyle photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "самолет и цветы на авиашоу",
+        "output": "airplane and flower decorations at airshow, celebration, colorful, realistic, detailed, high quality, event photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "пожилая пара и их собака в ретро автомобиле",
+        "output": "elderly couple with dog in vintage car, nostalgic, happy, realistic, detailed, high quality, lifestyle photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "кот и щенок играют в кузове пикапа",
+        "output": "cat and puppy playing in pickup truck bed, cute, farm, realistic, detailed, high quality, animal photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "мотоцикл припаркован у цветущей сакуры, рядом стоит человек",
+        "output": "motorcycle parked under cherry blossoms, person standing nearby, spring, romantic, realistic, detailed, high quality, scenic photography",
+        "class": "mixed"
+    },
+    {
+        "instruction": "Создай промпт для генерации изображения на английском",
+        "input": "самолет и мотоцикл на фоне гор",
+        "output": "airplane and motorcycle against mountain backdrop, adventure, realistic, detailed, high quality, landscape photography",
+        "class": "mixed"
+    }
+]
+

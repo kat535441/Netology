@@ -1,0 +1,201 @@
+﻿id;russian_prompt;expected_class;standard_promt
+0;пассажирский самолет в небе;airplane;passenger airplane, in sky, high altitude, realistic, detailed, contrails, clouds, best quality
+1;реактивный самолет на взлетной полосе;airplane;jet airplane, on runway, taking off, powerful, realistic, detailed, airport, aviation, masterpiece
+2;самолет, летящий высоко в облаках;airplane;airplane, flying above clouds, blue sky, majestic, serene, realistic, detailed, contrails
+3;грузовой самолет в аэропорту;airplane;cargo plane, at airport, loading, industrial, realistic, detailed, logistics, daytime
+4;маленький самолет на фоне голубого неба;airplane;small airplane, against blue sky, flying, single-engine, realistic, detailed, clouds
+5;боевой самолет в полете;airplane;fighter jet, in flight, military, powerful, realistic, detailed, sky, camouflage
+6;аэробус, заходящий на посадку;airplane;airbus, landing approach, low altitude, airport, realistic, detailed, aviation, best quality
+7;пропеллерный самолет на земле;airplane;propeller airplane, on ground, parked, vintage, realistic, detailed, airfield, sunny day
+8;силуэт самолета на закате;airplane;airplane silhouette, against sunset sky, dramatic, orange clouds, realistic, detailed, evening
+9;самолет с видимыми иллюминаторами;airplane;airplane, visible windows, flying, realistic, detailed, passenger jet, blue sky, masterpiece
+10;красный спортивный самолет в воздухе;airplane;red sports airplane, in air, aerobatic, dynamic, realistic, detailed, clouds, best quality
+11;самолет на стоянке у терминала;airplane;airplane, parked at terminal gate, airport, realistic, detailed, boarding bridge, daytime
+12;самолет, взлетающий с полосы;airplane;airplane, taking off from runway, powerful, realistic, detailed, wheels up, aviation
+13;двухпалубный самолет в полете;airplane;double-decker airplane, in flight, passenger jet, realistic, detailed, clouds, sky, masterpiece
+14;белый самолет на фоне серых облаков;airplane;white airplane, against gray clouds, flying, dramatic, realistic, detailed, overcast
+15;самолет с раскраской авиакомпании;airplane;airplane, with airline livery, flying, realistic, detailed, colorful, sky, best quality
+16;вид сбоку на летящий самолет;airplane;airplane, side view, flying, realistic, detailed, profile, clouds, blue sky
+17;кукурузник в небе над полем;airplane;crop duster airplane, in sky above field, biplane, realistic, detailed, agricultural, low altitude
+18;самолет, оставляющий след в небе;airplane;airplane, leaving contrail, in sky, realistic, detailed, vapor trail, blue sky, high altitude
+19;фотография самолета крупным планом;airplane;airplane, close-up photography, detailed, realistic, sharp focus, best quality, masterpiece
+20;седан иномарка вид сбоку 45 градусов;car;sedan, imported car, side view 45 degrees, realistic, detailed, metallic, best quality
+21;красный спортивный автомобиль вид сбоку;car;red sports car, side view, realistic, detailed, dynamic, glossy, masterpiece
+22;черный внедорожник крупным планом спереди;car;black SUV, close-up front view, realistic, detailed, grille, headlights, best quality
+23;белая машина вид сзади;car;white car, rear view, realistic, detailed, taillights, trunk, clean, masterpiece
+24;синий хэтчбек вид спереди сбоку;car;blue hatchback, front side view, realistic, detailed, compact, urban, best quality
+25;серебристый седан крупным планом сбоку;car;silver sedan, close-up side view, realistic, detailed, shiny, metallic, masterpiece
+26;желтый кабриолет вид сзади сбоку;car;yellow convertible, rear side view, realistic, detailed, soft top, summer, best quality
+27;серый внедорожник вид спереди;car;gray SUV, front view, realistic, detailed, large, off-road, headlights, masterpiece
+28;зеленый кроссовер крупным планом сбоку;car;green crossover, close-up side view, realistic, detailed, sporty, modern, best quality
+29;оранжевая спортивная машина вид сбоку 45%;car;orange sports car, side view 45 degrees, realistic, detailed, dynamic, vibrant, masterpiece
+30;черный седан вид сзади;car;black sedan, rear view, realistic, detailed, taillights, elegant, luxury, best quality
+31;белый минивэн крупным планом спереди;car;white minivan, close-up front view, realistic, detailed, family car, practical, masterpiece
+32;синий купе вид сбоку;car;blue coupe, side view, realistic, detailed, sporty, sleek, glossy, best quality
+33;красный внедорожник вид спереди сбоку;car;red SUV, front side view, realistic, detailed, large, off-road, headlights, masterpiece
+34;металлик седан крупным планом сзади;car;metallic sedan, close-up rear view, realistic, detailed, shiny, trunk, taillights, best quality
+35;серый хэтчбек вид сбоку 45 градусов;car;gray hatchback, side view 45 degrees, realistic, detailed, compact, urban, masterpiece
+36;черный кабриолет вид спереди;car;black convertible, front view, realistic, detailed, open top, sporty, elegant, best quality
+37;белый внедорожник крупным планом сбоку;car;white SUV, close-up side view, realistic, detailed, large, off-road, clean, masterpiece
+38;синий седан вид сзади сбоку;car;blue sedan, rear side view, realistic, detailed, taillights, elegant, metallic, best quality
+39;желтый спортивный автомобиль вид сбоку;car;yellow sports car, side view, realistic, detailed, dynamic, vibrant, glossy, masterpiece
+40;рыжий кот лежит на полу;cat;ginger cat, lying on floor, relaxed, domestic, detailed fur, realistic, cozy
+41;серый кот сидит и смотрит вбок;cat;gray cat, sitting, looking sideways, alert, domestic, detailed fur, realistic, portrait
+42;полосатый кот играет с мячиком;cat;tabby cat, playing with ball, playful, action, domestic, detailed, cute, sharp focus
+43;черный кот сидит на подоконнике;cat;black cat, sitting on windowsill, watching, domestic, detailed fur, indoor, natural light
+44;белый кот лежит на диване;cat;white cat, lying on sofa, cozy, domestic, relaxed, detailed fur, soft lighting, realistic
+45;трехцветная кошка сидит и смотрит в камеру;cat;calico cat, sitting, looking at camera, curious, domestic, detailed fur, portrait, best quality
+46;коричневый кот лежит на ковре;cat;brown cat, lying on carpet, relaxed, domestic, detailed fur, cozy, warm, realistic
+47;сиамский кот сидит с игрушечной мышкой;cat;siamese cat, sitting with toy mouse, playful, elegant, domestic, detailed, sharp focus
+48;пушистый кот лежит на спине;cat;fluffy cat, lying on back, relaxed, cute, domestic, detailed fur, cozy, soft lighting
+49;серый полосатый кот сидит и смотрит в сторону;cat;gray tabby cat, sitting, looking away, thoughtful, domestic, detailed fur, realistic, natural light
+50;черно-белый кот играет с бантиком на веревочке;cat;black and white cat, playing with ribbon on string, playful, action, domestic, detailed, cute
+51;рыжий кот сидит на стуле;cat;ginger cat, sitting on chair, relaxed, domestic, detailed fur, cozy, realistic, indoor
+52;белый пушистый кот лежит на подушке;cat;white fluffy cat, lying on pillow, cozy, soft, detailed fur, domestic, peaceful, cute
+53;дымчатый кот сидит и смотрит вбок;cat;smoky cat, sitting, looking sideways, elegant, domestic, detailed fur, portrait, soft focus
+54;кот табби лежит на полу, смотря в камеру;cat;tabby cat, lying on floor, looking at camera, relaxed, domestic, detailed fur, eye contact
+55;черный кот играет с шариком;cat;black cat, playing with ball, playful, action, domestic, detailed, dynamic, cute
+56;серый кот сидит на полу, умывается;cat;gray cat, sitting on floor, grooming itself, focused, domestic, detailed, realistic, close-up
+57;полосатый кот лежит на кровати;cat;tabby cat, lying on bed, relaxed, cozy, domestic, detailed fur, soft lighting, peaceful
+58;белый с черными пятнами кот сидит и смотрит в сторону;cat;white cat with black spots, sitting, looking away, curious, domestic, detailed fur, cute
+59;рыжий пушистый кот лежит на окошке;cat;ginger fluffy cat, lying on windowsill, warm, cozy, domestic, detailed fur, sunlight
+60;лабрадор сидит и смотрит в камеру;dog;labrador, sitting, looking at camera, loyal, detailed fur, portrait, realistic, best quality
+61;овчарка лежит на траве;dog;german shepherd, lying on grass, alert, outdoor, detailed fur, realistic, nature, peaceful
+62;золотистый ретривер играет с мячом;dog;golden retriever, playing with ball, happy, action, outdoor, detailed fur, dynamic, cute
+63;такса сидит на диване;dog;dachshund, sitting on sofa, cozy, domestic, long body, detailed fur, cute, relaxed
+64;пудель стоит и смотрит вбок;dog;poodle, standing, looking sideways, elegant, detailed fur, groomed, portrait, best quality
+65;бигль лежит на полу;dog;beagle, lying on floor, relaxed, domestic, floppy ears, detailed fur, cozy, realistic
+66;боксер сидит с игрушкой в зубах;dog;boxer, sitting with toy in mouth, playful, muscular, detailed fur, domestic, cute, action
+67;дворняга лежит на коврике;dog;mixed-breed dog, lying on mat, relaxed, domestic, detailed fur, cozy, realistic, pet
+68;мопс сидит и смотрит в сторону;dog;pug, sitting, looking away, wrinkly face, cute, detailed, portrait, soft lighting, domestic
+69;сибирский хаски стоит на снегу;dog;siberian husky, standing on snow, winter, blue eyes, detailed fur, majestic, outdoor, cold
+70;доберман лежит на полу, смотря в камеру;dog;doberman, lying on floor, looking at camera, alert, muscular, detailed fur, portrait, realistic
+71;чихуахуа сидит на подушке;dog;chihuahua, sitting on pillow, tiny, cute, detailed fur, domestic, cozy, portrait, soft focus
+72;ротвейлер стоит и смотрит вбок;dog;rottweiler, standing, looking sideways, strong, muscular, detailed fur, alert, portrait, best quality
+73;джек рассел терьер играет с костью;dog;jack russell terrier, playing with bone, energetic, playful, detailed fur, action, domestic
+74;колли лежит на траве;dog;collie, lying on grass, graceful, long fur, outdoor, realistic, nature, peaceful, detailed
+75;шпиц сидит и смотрит в камеру;dog;spitz, sitting, looking at camera, fluffy, cute, detailed fur, portrait, domestic, cozy
+76;бульдог лежит на боку;dog;bulldog, lying on side, relaxed, wrinkled face, muscular, detailed, domestic, cute, sleepy
+77;корги сидит на полу;dog;corgi, sitting on floor, short legs, fluffy, cute, detailed fur, portrait, happy, domestic
+78;стаффордширский терьер стоит и смотрит в сторону;dog;staffordshire terrier, standing, looking away, strong, muscular, detailed fur, alert, portrait
+79;сенбернар лежит на полу;dog;st bernard, lying on floor, large, relaxed, floppy jowls, detailed fur, domestic, peaceful, cozy
+80;красная роза крупным планом;flower;red rose, close-up, macro photography, delicate petals, detailed, vibrant, flower, best quality
+81;подсолнух крупным планом;flower;sunflower, close-up, macro, yellow petals, brown center, detailed, nature, vibrant, sharp focus
+82;тюльпан крупным планом;flower;tulip, close-up, macro, colorful petals, detailed, flower, spring, soft lighting, masterpiece
+83;ромашка крупным планом;flower;daisy, close-up, macro, white petals, yellow center, delicate, detailed, nature, fresh
+84;орхидея фаленопсис крупным планом;flower;phalaenopsis orchid, close-up, macro, exotic, white petals, detailed, elegant, flower, best quality
+85;лилия крупным планом;flower;lily, close-up, macro, white petals, stamens, detailed, elegant, flower, soft focus, masterpiece
+86;пион крупным планом;flower;peony, close-up, macro, pink petals, lush, detailed, flower, romantic, soft lighting, best quality
+87;гвоздика крупным планом;flower;carnation, close-up, macro, ruffled petals, detailed, flower, vibrant, textured, sharp focus
+88;нарцисс крупным планом;flower;daffodil, close-up, macro, yellow trumpet, detailed, flower, spring, fresh, natural light
+89;лаванда крупным планом;flower;lavender, close-up, macro, purple spikes, detailed, fragrant, flower, rustic, soft focus
+90;ирис крупным планом;flower;iris, close-up, macro, purple petals, detailed, elegant, flower, intricate, vibrant, masterpiece
+91;георгин крупным планом;flower;dahlia, close-up, macro, intricate petals, detailed, flower, colorful, garden, sharp focus
+92;мак крупным планом;flower;poppy, close-up, macro, red petals, black center, delicate, detailed, flower, vibrant, best quality
+93;сирень крупным планом;flower;lilac, close-up, macro, purple clusters, detailed, fragrant, flower, spring, soft lighting
+94;гортензия крупным планом;flower;hydrangea, close-up, macro, large flower head, detailed, blue petals, lush, garden, masterpiece
+95;незабудки крупным планом;flower;forget-me-nots, close-up, macro, tiny blue flowers, delicate, detailed, nature, soft focus, cute
+96;поле подсолнухов близко;flower;sunflower field, close view, many sunflowers, yellow, vibrant, summer, nature, landscape, detailed
+97;поле маков близко;flower;poppy field, close view, red poppies, blooming, vibrant, nature, landscape, summer, colorful
+98;поле ромашек близко;flower;daisy field, close view, white daisies, field of flowers, nature, summer, peaceful, detailed
+99;поле тюльпанов близко;flower;tulip field, close view, rows of tulips, colorful, spring, vibrant, nature, landscape, best quality
+100;яблоко крупным планом;fruit;apple, close-up, macro, red fruit, fresh, juicy, detailed, still life, food photography, best quality
+101;апельсин крупным планом;fruit;orange, close-up, macro, citrus, orange fruit, fresh, juicy, detailed, still life, vibrant
+102;банан крупным планом;fruit;banana, close-up, macro, yellow fruit, fresh, ripe, detailed, still life, food, natural light
+103;клубника крупным планом;fruit;strawberry, close-up, macro, red berry, fresh, juicy, green leaves, detailed, still life, delicious
+104;виноград крупным планом;fruit;grapes, close-up, macro, purple grapes, bunch, fresh, juicy, detailed, still life, fruit, vibrant
+105;лимон крупным планом;fruit;lemon, close-up, macro, yellow citrus, fresh, sour, detailed, still life, food photography, bright
+106;груша крупным планом;fruit;pear, close-up, macro, green pear, fresh, ripe, detailed, still life, fruit, soft lighting
+107;персик крупным планом;fruit;peach, close-up, macro, orange fruit, fuzzy skin, fresh, juicy, detailed, still life, sweet
+108;киви крупным планом;fruit;kiwi, close-up, macro, green flesh, brown skin, fresh, detailed, still life, fruit, textured
+109;гранат крупным планом;fruit;pomegranate, close-up, macro, red fruit, whole, detailed, still life, vibrant, fresh, masterpiece
+110;манго крупным планом;fruit;mango, close-up, macro, yellow fruit, ripe, juicy, detailed, still life, tropical, fresh
+111;ананас крупным планом;fruit;pineapple, close-up, macro, tropical fruit, spiky skin, detailed, still life, yellow, fresh, best quality
+112;арбуз крупным планом;fruit;watermelon, close-up, macro, green rind, fresh, detailed, still life, summer, fruit, large
+113;дыня крупным планом;fruit;melon, close-up, macro, cantaloupe, textured skin, fresh, detailed, still life, fruit, orange flesh
+114;слива крупным планом;fruit;plum, close-up, macro, purple fruit, ripe, juicy, detailed, still life, fresh, smooth skin
+115;абрикос крупным планом;fruit;apricot, close-up, macro, orange fruit, small, ripe, detailed, still life, soft, fuzzy skin
+116;нектарин крупным планом;fruit;nectarine, close-up, macro, orange fruit, smooth skin, ripe, juicy, detailed, still life, fresh
+117;лайм крупным планом;fruit;lime, close-up, macro, green citrus, fresh, sour, detailed, still life, fruit, vibrant, sharp focus
+118;хурма крупным планом;fruit;persimmon, close-up, macro, orange fruit, ripe, detailed, still life, glossy skin, fresh, sweet
+119;гранат в разрезе крупным планом;fruit;pomegranate, cut in half, close-up, macro, red seeds, juicy, detailed, still life, vibrant, fresh
+120;спортивный мотоцикл вид сбоку;motorbike;sport motorcycle, side view, dynamic, racing, detailed, realistic, fast, best quality
+121;чоппер вид сбоку;motorbike;chopper, side view, custom, long forks, chrome, detailed, cruiser, motorcycle, masterpiece
+122;кроссовый мотоцикл вид сбоку;motorbike;motocross motorcycle, side view, off-road, dirt bike, knobby tires, detailed, action, realistic
+123;скутер вид сбоку;motorbike;scooter, side view, urban, two wheels, detailed, realistic, city commuting, vespa style, best quality
+124;туристический мотоцикл вид сбоку;motorbike;touring motorcycle, side view, long distance, luggage, fairing, detailed, realistic, comfortable
+125;эндуро вид сбоку;motorbike;enduro motorcycle, side view, off-road, dual sport, knobby tires, detailed, adventure, realistic
+126;классический мотоцикл вид сбоку;motorbike;classic motorcycle, side view, vintage, retro, detailed, leather seat, chrome, nostalgic
+127;мотоцикл в стиле кафе рейсер вид сбоку;motorbike;cafe racer motorcycle, side view, retro style, minimalist, clip-ons, detailed, classic, best quality
+128;круизер вид сбоку;motorbike;cruiser motorcycle, side view, low rider, relaxed, chrome, detailed, american style, realistic
+129;мотард вид сбоку;motorbike;supermoto motorcycle, side view, street legal dirt bike, detailed, sporty, agile, best quality
+130;черный мотоцикл вид сбоку;motorbike;black motorcycle, side view, matte finish, detailed, realistic, sporty, urban, sharp
+131;красный спортивный байк вид сбоку;motorbike;red sportbike, side view, racing, fast, glossy, detailed, dynamic, motorcycle, masterpiece
+132;синий мотоцикл вид сбоку;motorbike;blue motorcycle, side view, sport style, detailed, realistic, vibrant, modern, best quality
+133;белый скутер вид сбоку;motorbike;white scooter, side view, clean, urban, vespa style, detailed, realistic, city, cute
+134;зеленый кроссовый мотоцикл вид сбоку;motorbike;green dirt bike, side view, off-road, motocross, knobby tires, detailed, action, adventure
+135;желтый чоппер вид сбоку;motorbike;yellow chopper, side view, custom, long forks, chrome, detailed, cruiser, vibrant, best quality
+136;оранжевый эндуро вид сбоку;motorbike;orange enduro, side view, off-road, dual sport, dirt bike, detailed, adventure, rugged
+137;серый туристический мотоцикл вид сбоку;motorbike;gray touring motorcycle, side view, long distance, luggage, comfortable, detailed, realistic
+138;металлик мотоцикл вид сбоку;motorbike;metallic motorcycle, side view, shiny, chrome details, reflective, detailed, sporty, best quality
+139;мотоцикл с рисунком вид сбоку;motorbike;motorcycle with custom paint, side view, artistic design, detailed, colorful, unique, masterpiece
+140;женское лицо крупным планом улыбается;person;woman face, close-up, smiling, happy, portrait, realistic, detailed, soft lighting, best quality
+141;мужское лицо крупным планом серьезное;person;man face, close-up, serious expression, portrait, realistic, detailed, sharp focus, masculine
+142;лицо ребенка крупным планом смеется;person;child face, close-up, laughing, joyful, happy, portrait, realistic, detailed, candid, cute
+143;лицо пожилого человека крупным планом;person;elderly face, close-up, wrinkles, aged, portrait, realistic, detailed, wisdom, character, soft light
+144;лицо в задумчивости крупным планом;person;face, close-up, thoughtful expression, contemplative, pensive, portrait, realistic, detailed, moody
+145;лицо с удивленным выражением крупным планом;person;face, close-up, surprised expression, shocked, wide eyes, portrait, realistic, detailed, dramatic
+146;лицо с грустным выражением крупным планом;person;face, close-up, sad expression, melancholy, teary eyes, portrait, realistic, detailed, emotional
+147;лицо с сердитым выражением крупным планом;person;face, close-up, angry expression, furious, intense, portrait, realistic, detailed, aggressive
+148;лицо с нейтральным выражением крупным планом;person;face, close-up, neutral expression, calm, portrait, realistic, detailed, natural, balanced
+149;лицо с испуганным выражением крупным планом;person;face, close-up, scared expression, frightened, fearful, portrait, realistic, detailed, tense
+150;лицо с хитрым выражением крупным планом;person;face, close-up, sly expression, mischievous, cunning, portrait, realistic, detailed, playful
+151;лицо с усталым выражением крупным планом;person;face, close-up, tired expression, exhausted, bags under eyes, portrait, realistic, detailed
+152;лицо с радостным выражением крупным планом;person;face, close-up, joyful expression, happy, radiant, portrait, realistic, detailed, smiling
+153;лицо с забавным выражением крупным планом;person;face, close-up, funny expression, goofy, silly, portrait, realistic, detailed, amusing
+154;лицо с сосредоточенным выражением крупным планом;person;face, close-up, focused expression, concentrated, intense gaze, portrait, realistic, detailed
+155;лицо с нежным выражением крупным планом;person;face, close-up, tender expression, gentle, loving, portrait, realistic, detailed, warm
+156;лицо с высокомерным выражением крупным планом;person;face, close-up, arrogant expression, haughty, condescending, portrait, realistic, detailed
+157;лицо с растерянным выражением крупным планом;person;face, close-up, confused expression, perplexed, puzzled, portrait, realistic, detailed
+158;лицо с восторженным выражением крупным планом;person;face, close-up, delighted expression, overjoyed, excited, portrait, realistic, detailed, happy
+159;лицо с загадочной улыбкой крупным планом;person;face, close-up, mysterious smile, enigmatic, subtle smile, portrait, realistic, detailed, intriguing
+160;девушка кормит кота на капоте машины;mixed;young woman feeding cat on car hood, sunny day, urban street, realistic, detailed, high quality, candid photography
+161;самолет летит над полем с цветами;mixed;airplane flying over flower field, aerial view, colorful blossoms, dramatic clouds, realistic, detailed, high quality, landscape photography
+162;мальчик и собака сидят на мотоцикле;mixed;boy and dog sitting on motorcycle, garage setting, casual, realistic, detailed, high quality, portrait photography
+163;красная машина и мотоцикл на трассе;mixed;red car and motorcycle on highway, racing, motion blur, dynamic action, realistic, detailed, high quality, automotive photography
+164;девушка держит букет цветов у самолета;mixed;woman holding flower bouquet near airplane, airport farewell, emotional, realistic, detailed, high quality, portrait photography
+165;кот и собака спят в машине;mixed;cat and dog sleeping in car back seat, cozy, road trip, realistic, detailed, high quality, animal photography
+166;мотоциклист и человек на велосипеде на закате;mixed;motorcyclist and person on bicycle at sunset, golden hour, scenic road, realistic, detailed, high quality, silhouette photography
+167;самолет и машина на взлетной полосе;mixed;airplane and car on runway, airport tarmac, industrial, realistic, detailed, high quality, aviation photography
+168;девушка с собакой сидит на капоте машины;mixed;woman with dog sitting on car hood, sunset, romantic, realistic, detailed, high quality, lifestyle photography
+169;кот спит на мотоцикле в гараже;mixed;cat sleeping on motorcycle in garage, cozy, mechanical background, realistic, detailed, high quality, quirky photography
+170;человек кормит голубей на площади рядом припаркована машина;mixed;person feeding pigeons in square, car parked nearby, European atmosphere, realistic, detailed, high quality, street photography
+171;цветы и фрукты на капоте старой машины;mixed;flowers and fruits on hood of vintage car, rustic still life, realistic, detailed, high quality, creative composition
+172;мальчик и кот смотрят на пролетающий самолет;mixed;boy and cat watching airplane flying overhead, wonder, backyard, realistic, detailed, high quality, candid photography
+173;мотоцикл и собака на фоне заката;mixed;motorcycle and dog silhouetted against sunset, golden hour, scenic road, realistic, detailed, high quality, cinematic photography
+174;девушка с корзиной фруктов на заднем сиденье кабриолета;mixed;woman with fruit basket in back seat of convertible, summer, road trip, realistic, detailed, high quality, lifestyle photography
+175;самолет и цветы на авиашоу;mixed;airplane and flower decorations at airshow, celebration, colorful, realistic, detailed, high quality, event photography
+176;пожилая пара и их собака в ретро автомобиле;mixed;elderly couple with dog in vintage car, nostalgic, happy, realistic, detailed, high quality, lifestyle photography
+177;кот и щенок играют в кузове пикапа;mixed;cat and puppy playing in pickup truck bed, cute, farm, realistic, detailed, high quality, animal photography
+178;мотоцикл припаркован у цветущей сакуры рядом стоит человек;mixed;motorcycle parked under cherry blossoms, person standing nearby, spring, romantic, realistic, detailed, high quality, scenic photography
+179;самолет и мотоцикл на фоне гор;mixed;airplane and motorcycle against mountain backdrop, adventure, realistic, detailed, high quality, landscape photography
+180;закат над океаном;unknown;I don't know
+181;горный пейзаж с водопадом;unknown;I don't know
+182;дракон в средневековом замке;unknown;I don't know
+183;чашка кофе на столике в кафе;unknown;I don't know
+184;северное сияние над лесом;unknown;I don't know
+185;морская звезда на песчаном дне;unknown;I don't know
+186;кристаллы и минералы на черном фоне;unknown;I don't know
+187;единорог в волшебном лесу;unknown;I don't know
+188;старые книги на полке в библиотеке;unknown;I don't know
+189;звездное небо над пустыней;unknown;I don't know
+190;медузы в океане;unknown;I don't know
+191;вязаный свитер крупным планом;unknown;I don't know
+192;фея на цветке;unknown;I don't know
+193;керамическая посуда на деревянном столе;unknown;I don't know
+194;вулкан извергается;unknown;I don't know
+195;пингвины на льдине;unknown;I don't know
+196;часы с кукушкой на стене;unknown;I don't know
+197;робот в космическом корабле;unknown;I don't know
+198;волны разбиваются о скалы;unknown;I don't know
+199;павлин распустил хвост;unknown;I don't know

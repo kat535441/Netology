@@ -1,0 +1,21 @@
+﻿russian_prompt;expected_class_1;expected_class_2;expected_class_3
+кот и собака играют вместе;cat;dog;without_class
+девушка держит букет цветов;person;flower;without_class
+кошка и цветок на подоконнике;cat;flower;without_class
+мальчик и собака на лужайке;person;dog;without_class
+девушка, кот и собака на диване;person;cat;dog
+человек кормит кошку на улице;person;cat;without_class
+кот и собака спят вместе;cat;dog;without_class
+девушка с цветком и собакой;person;flower;dog
+мужчина и кот в кресле;person;cat;without_class
+цветы и кот на столе;flower;cat;without_class
+девушка, собака и цветок в парке;person;dog;flower
+кот и цветы в саду;cat;flower;without_class
+человек и собака на пляже;person;dog;without_class
+девушка с кошкой и цветами;person;cat;flower
+кот, собака и человек в машине;cat;dog;person
+цветы и собака в поле;flower;dog;without_class
+человек и кот на кухне;person;cat;without_class
+кот, цветок и девушка в комнате;cat;flower;person
+собака и цветы у дома;dog;flower;without_class
+человек, кот и цветок на балконе;person;cat;flower
